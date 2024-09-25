@@ -5,11 +5,11 @@
 - Maak de nodige rijen en kolommen aan
 - Maak onderstaande voorbeeld zo goed mogelijk na
 - De gebruikte kleuren zijn:
-	- Groen: #FF00FF00
-	- Blauw: #FF0000FF
-	- Rood: #FFFF0000
-	- Geel: #FFFFFF00
-	- Oranje: #FFFFA500
+	- Groen: #00FF00
+	- Blauw: #0000FF
+	- Rood: #FF0000
+	- Geel: #FFFF00
+	- Oranje: #FFA500
 
 
 ![GridLayout](/assets/gridlayout.png)
