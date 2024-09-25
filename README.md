@@ -10,6 +10,10 @@
 	- Rood: #FF0000
 	- Oranje: #FFA500
 
+> Tip: 
+> - De hoogte van "1.1" is 2 x de hoogte van van de titel
+> - De hoogte van "2.1" is 3 x de hoogte van van de titel
+> - De hoogte van "2.1" is 2 x de hoogte van "2.2"
 
 ![GridLayout](/assets/gridlayout.png)
 
