@@ -5,10 +5,9 @@
 - Maak de nodige rijen en kolommen aan
 - Maak onderstaande voorbeeld zo goed mogelijk na
 - De gebruikte kleuren zijn:
-	- Groen: #00FF00
+	- Groen: #008000
 	- Blauw: #0000FF
 	- Rood: #FF0000
-	- Geel: #FFFF00
 	- Oranje: #FFA500
 
 

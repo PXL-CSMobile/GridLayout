@@ -38,7 +38,7 @@
                Grid.Column="0" 
                Grid.Row="2" 
                Grid.RowSpan="2"
-               BackgroundColor="#800080" />
+               BackgroundColor="#FFFFA500" />
         <Label Text="2.2" 
                Grid.Column="1" 
                Grid.Row="2" 
